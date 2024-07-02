@@ -1,0 +1,13 @@
+.star-rating {
+    width: 100vw;
+    height: 100vh;
+    background-color: aqua;
+}
+
+.active {
+    color: #fff700;
+}
+
+.inactive {
+    color: #000000;
+}
